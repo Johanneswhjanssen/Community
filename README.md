@@ -16,9 +16,10 @@ The design of the DApp consists of 8 types of solidity contracts that are stacke
 * 2019: github publication
 * 2020: search for cooperation partners, building community of developers of liquid commuinties
 * 2020: website liquid communities.
-* **License**: read LICENSE file
-* **Background information on the idea of fluidity**: publication of PPeu, from geostate to neostate.
-* See also my new publication liquid communities (shortly after)
+
+**License**: read LICENSE file
+
+**Background information on the idea of fluidity**: publication of PPeu, from geostate to neostate. See also my new publication liquid communities (shortly after)
 
 ## Preface
 How do we build new communities, supported digitally that can range from small thematic communities to a global community? Where do you start? With a page on Facebook? A Google hangout group? Twitter? One of the countless apps on internet that support "community-building"? Unfortunately, none of these options is suitable for building liquid, democratic communities. The problem with these apps is first and foremost that they are mostly commercial products from companies that want to earn money with them. Although these companies present very idealistic motives to us, facilitating a community is a revenue model for them. A company simply has to make money, sell products, attract consumers and promote trade. If companies sell their apps for "free", it's not for nothing. The use of the apps provides companies with data, which they then sell or use to serve advertisers. But a community is not just a marketplace. It is much more. A community is a social system with an internal structure, views, positions and interests that constitute a social identity of the community and specific processes that develop the identity by means of democratic decision-making. If you want to build a sustainable community, it must be made **by** and **for** the people of that community. A revenue model with advertisements is neither suitable nor correct.

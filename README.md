@@ -16,7 +16,6 @@ The design of the DApp consists of 8 types of solidity contracts that are stacke
 * 2019: github publication
 * 2020: search for cooperation partners, building community of developers of liquid commuinties
 * 2020: website liquid communities.
-
 * **License**: read LICENSE file
 * **Background information on the idea of fluidity**: publication of PPeu, from geostate to neostate.
 * See also my new publication liquid communities (shortly after)

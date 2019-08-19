@@ -11,11 +11,11 @@ The Dapp (Decentralized application) to be built for liquid communities is a DAO
 The design of the DApp consists of 8 types of solidity contracts that are stacked 'on top of each other'. They are called People, Identity, Community, Democracy, Trust, Ballot and Relations. Read the WHITE PAPER for the structure and functions of these contracts.
 
 **Schedule**:
-2018: first draft of blockchain contracts
-2019: testing solidity contracts (remix, rinkeby)
-2019: github publication
-2020: search for cooperation partners, building community of developers of liquid commuinties
-2020: website liquid communities.
+* 2018: first draft of blockchain contracts
+* 2019: testing solidity contracts (remix, rinkeby)
+* 2019: github publication
+* 2020: search for cooperation partners, building community of developers of liquid commuinties
+* 2020: website liquid communities.
 
 ** License **: read LICENSE file
 **Background information on the idea of fluidity**: publication of PPeu, from geostat to neostat.

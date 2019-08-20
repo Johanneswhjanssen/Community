@@ -1,0 +1,4 @@
+
+(sociale) Identiteit
+Het identiteitscontract betreft de identiteit van de gemeenschap(pen) en moet niet worden verward met de identificatie van personen in het Mens contract. Het gaat hier om de identiteit van de gemeenschap. Het contract is nauw verbonden met het gemeenschapscontract. De persoon die een nieuwe identiteitscontract aanmaakt, zal ook de eerste (tijdelijke) bestuurder zijn van de gemeenschap die met de identiteit wordt verbonden.
+Ieder volwassen persoon (geregisteerd in het Mens-contract) die geen dienaar is van het Mens-contract kan een identiteit/gemeenschap starten. Bij de initalisatie van de contract dient ook een dienaar/ambtenaar opgegeven te worden. Deze persoon mag niet gelijk zijn aan de persoon die de gemeenschap start. Van ieder lid leggen we gegevens vast, in identiteit en gemeenschapscontract, zoals type lid, status, begin en eind van het lidmaatschap en de organen binnen de gemeenschap waar men lid van is.     
